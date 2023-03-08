@@ -6,7 +6,7 @@ const AboutMePage = () => {
         <AboutMePageStyled id='aboutMe'>
             <div className='about-me'>
                 <p>
-                    Me chamo Camila, tenho 29 anos. Minha história com a tecnologia começou quando
+                    Me chamo Camila e tenho 29 anos. Minha história com a tecnologia começou quando
                     em 2022 fui apresentada à escola{' '}
                     <a
                         href='https://kenzie.com.br/quem-somos?utm_term=kwd-84045013191765:loc-20&utm_campaign=BING-INSC-PER-2023-TERMOS-MARCA-SEARCH&utm_source=bing&utm_medium=ppc&hsa_cam=428099731&hsa_grp=1344704077201117&hsa_ad=84044198922709&hsa_src=o&msclkid=99a85859865f1408009c3c514d89b37c&utm_content=Kenzie%20Academy'
