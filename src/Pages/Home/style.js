@@ -9,7 +9,8 @@ export const HomePageStyled = styled.section`
     background-repeat: no-repeat;
     background-position: center;
     background-color: #0f0f10;
-    border-bottom: 3px solid #808080;
+    box-shadow: 0 0 100px 10px rgb(80 80 80 / 50%);
+    border-bottom: 2px solid #808080;
     object-fit: cover;
 
     position: relative;

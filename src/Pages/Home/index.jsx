@@ -1,7 +1,7 @@
 import React from 'react'
 import { HomePageStyled } from './style'
 
-export const HomePage = () => {
+const HomePage = () => {
     return (
         <HomePageStyled>
             <div  id='home'className='container-about-me'>
@@ -14,3 +14,5 @@ export const HomePage = () => {
         </HomePageStyled>
     )
 }
+
+export default HomePage

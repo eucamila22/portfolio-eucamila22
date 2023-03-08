@@ -4,7 +4,7 @@ export const HeaderComponentStyled = styled.header`
     background-color: #0f0f10;
     border-bottom: 3px solid #808080;
 
-    div {
+    > div {
         width: 100%;
         max-width: 1040px;
         height: 80px;
@@ -16,7 +16,6 @@ export const HeaderComponentStyled = styled.header`
         z-index: 1001;
 
         display: flex;
-
         align-items: center;
         justify-content: space-between;
 
@@ -26,7 +25,7 @@ export const HeaderComponentStyled = styled.header`
             color: white;
         }
 
-        ul {
+        .ul-desk {
             display: none;
             gap: 10px;
         }
@@ -38,9 +37,11 @@ export const HeaderComponentStyled = styled.header`
     }
 
     @media (min-width: 768px) {
-        div ul {
-            display: flex;
-            gap: 50px;
+        div {
+            .ul-desk {
+                display: flex;
+                gap: 50px;
+            }
         }
     }
 `

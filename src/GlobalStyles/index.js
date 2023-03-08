@@ -7,13 +7,17 @@ export const GlobalStyles = createGlobalStyle`
         padding: 0;
         box-sizing: border-box;
     }
-    body, ul, li, a{
-        background-color: #0F0F10;
-        list-style: none;
-        text-decoration: none;
+    body{
+        background-color: #0F0F10;        
         font-family: 'Aboreto', cursive;
         font-family: 'Raleway', sans-serif;
+
+        ul, li, a{
+            list-style: none;
+            text-decoration: none;
+        }
     }
+    
     .container{
         width: 100%;
         max-width: 1040px;
