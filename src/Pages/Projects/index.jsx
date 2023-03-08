@@ -18,7 +18,9 @@ const ProjectsPage = () => {
                 <CardProjects
                     name={'Kenzie Burguer'}
                     img={Burguer}
-                    vercel={'https://nu-kenzie-camila-tavares-8pa704w0v-eucamila22.vercel.app/'}
+                    vercel={
+                        'https://react-entrega-template-hamburgueria-da-kenzie-2-0-eucamila22.vercel.app/'
+                    }
                     repo={''}
                 />
                 <CardProjects
