@@ -19,7 +19,7 @@ const AboutMePage = () => {
                     num curso de Programação. Com muito apoio da família, pude focar intensamente na
                     minha profissionalização e agora, já formada em Desenvolvimento Front End, busco
                     uma oportunidade no mercado de trabalho. Além do curso, faço também, faculdade
-                    de Análise de Desenvolvimento de Sistema e, sempre que posso, busco cursos
+                    de Análise e Desenvolvimento de Sistema e, sempre que posso, busco cursos
                     rápidos para estar sempre atualizada sobre as novas tecnologias do mercado.
                 </p>
                 <p>
@@ -31,7 +31,7 @@ const AboutMePage = () => {
                 <p>
                     Meus conhecimentos na área são com projetos bem completos, onde pude explorar
                     muito o meu conhecimento tanto na área de front-end com desenvolvimentos de
-                    figma e também com a elaboração completa da lógica e regras de negócio. Também
+                    figma, por exemplo e também com a elaboração completa da lógica e regras de negócio. Também
                     pude treinar com colegas, simulando o mercado de trabalho e colocando em prática
                     os conhecimentos adquiridos de Soft-Skills.
                 </p>
