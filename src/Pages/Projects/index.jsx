@@ -12,7 +12,7 @@ const ProjectsPage = () => {
                 <CardProjects
                     name={'Nu Kenzie'}
                     img={Nu}
-                    vercel={'https://nu-kenzie-camila-tavares-8pa704w0v-eucamila22.vercel.app/'}
+                    vercel={'https://projeto-nu-kenzie.vercel.app/'}
                     repo={''}
                 />
                 <CardProjects
