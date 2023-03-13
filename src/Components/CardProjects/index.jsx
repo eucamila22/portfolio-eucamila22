@@ -9,7 +9,9 @@ const CardProjects = ({ name, img, vercel, repo }) => {
                 <div class='info'>
                     <h4>{name}</h4>
                     <p>
-                        <a href={repo}>Repositório</a>
+                        <a href={repo} target={'_blank'} rel='noreferrer'>
+                            Repositório
+                        </a>
                     </p>
                     <p>
                         <a href={vercel} target={'_blank'} rel='noreferrer'>
