@@ -18,16 +18,14 @@ const ProjectsPage = () => {
                 <CardProjects
                     name={'Kenzie Burguer'}
                     img={Burguer}
-                    vercel={
-                        'https://react-entrega-template-hamburgueria-da-kenzie-2-0-eucamila22.vercel.app/'
-                    }
-                    repo={''}
+                    vercel={'hhttps://burguer-kenzie-indol.vercel.app/'}
+                    repo={'https://github.com/eucamila22/Burguer-Kenzie'}
                 />
                 <CardProjects
                     name={'Kenzie Hub'}
                     img={Hub}
                     vercel={'https://react-entrega-kenzie-hub-eucamila22.vercel.app/'}
-                    repo={''}
+                    repo={'https://github.com/eucamila22/Kenzie-Hub'}
                 />
             </div>
         </ProjectsPageStyled>
