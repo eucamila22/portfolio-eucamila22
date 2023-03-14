@@ -13,12 +13,12 @@ const ProjectsPage = () => {
                     name={'Nu Kenzie'}
                     img={Nu}
                     vercel={'https://projeto-nu-kenzie.vercel.app/'}
-                    repo={'https://projeto-nu-kenzie.vercel.app/'}
+                    repo={'https://github.com/eucamila22/Nu-Kenzie'}
                 />
                 <CardProjects
                     name={'Kenzie Burguer'}
                     img={Burguer}
-                    vercel={'hhttps://burguer-kenzie-indol.vercel.app/'}
+                    vercel={'https://burguer-kenzie-indol.vercel.app/'}
                     repo={'https://github.com/eucamila22/Burguer-Kenzie'}
                 />
                 <CardProjects
