@@ -13,16 +13,16 @@ const ContactPage = () => {
                     11 99918-8671
                 </a>
                 <ImLinkedin className='icon' />
-                <a href='https://github.com/eucamila22' target='_blank' rel='noreferrer'>
-                    eucamila22
+                <a href='https://www.linkedin.com/in/camilagdtavares/' target='_blank' rel='noreferrer'>
+                    camilagdtavares
                 </a>
                 <BsGithub className='icon' />
                 <a
-                    href='https://www.linkedin.com/in/camilagdtavares/'
+                    href='https://github.com/eucamila22'
                     target='_blank'
                     rel='noreferrer'
                 >
-                    camilagdtavares
+                    eucamila22
                 </a>
                 <MdEmail className='icon' />
                 <a href='mailto:camila01101993@outlook.com' target='_blank' rel='noreferrer'>
